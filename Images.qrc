@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>images/BackwardT.png</file>
+        <file>images/ForwardT.png</file>
+        <file>images/PauseT.png</file>
+        <file>images/PlayT.png</file>
+        <file>images/loader.gif</file>
+        <file>images/NoSong.png</file>
+        <file>images/mute.png</file>
+        <file>images/unmute.png</file>
+        <file>images/ytLogo.png</file>
+    </qresource>
+</RCC>
